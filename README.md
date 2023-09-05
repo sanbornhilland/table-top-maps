@@ -4,6 +4,7 @@
 
 - [Live App](https://table-top-maps.vercel.app/)
 - [Figma File](https://www.figma.com/file/THhaLFeeyHAjc6pZ3Ncxqn/)
+- [Other Link](https://google.ca)
 
 ## Developing
 
